@@ -13,6 +13,7 @@
     // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
     self.window.backgroundColor = [UIColor whiteColor];
     NSLog(@"5555555");
+    NSLog(@"6666666");
 
 }
 
