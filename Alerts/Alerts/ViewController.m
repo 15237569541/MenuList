@@ -39,6 +39,7 @@
 - (IBAction)buttonClick:(UIButton *)sender {
     [self.typeMenu showMenu];
     NSLog(@"1111111");
+    
 }
 
 
