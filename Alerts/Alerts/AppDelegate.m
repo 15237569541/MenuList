@@ -30,6 +30,13 @@
     // Use this method to select a configuration to create the new scene with.
     return [[UISceneConfiguration alloc] initWithName:@"Default Configuration" sessionRole:connectingSceneSession.role];
     NSLog(@"BBBBBBB");
+    NSLog(@"00000mmmmmm");
+    NSLog(@"00000mmmmmm");
+    NSLog(@"00000mmmmmm");NSLog(@"00000mmmmmm");
+    NSLog(@"00000mmmmmm");
+    NSLog(@"00000mmmmmm");
+    NSLog(@"00000mmmmmm");NSLog(@"00000mmmmmm");
+    
 }
 
 
