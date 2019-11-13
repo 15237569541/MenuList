@@ -18,6 +18,11 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     NSLog(@"4444444");
+    NSLog(@"99999999999999");
+    NSLog(@"99999999999999");
+    NSLog(@"99999999999999");
+    NSLog(@"99999999999999");
+    NSLog(@"99999999999999");
     return YES;
 }
 
@@ -29,13 +34,7 @@
     // Called when a new scene session is being created.
     // Use this method to select a configuration to create the new scene with.
     return [[UISceneConfiguration alloc] initWithName:@"Default Configuration" sessionRole:connectingSceneSession.role];
-    NSLog(@"BBBBBBB");
-    NSLog(@"00000mmmmmm");
-    NSLog(@"00000mmmmmm");
-    NSLog(@"00000mmmmmm");NSLog(@"00000mmmmmm");
-    NSLog(@"00000mmmmmm");
-    NSLog(@"00000mmmmmm");
-    NSLog(@"00000mmmmmm");NSLog(@"00000mmmmmm");
+    
     
 }
 
